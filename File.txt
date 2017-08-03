@@ -9,6 +9,7 @@ Change 7.1
 Change 7.2
 Change 8
 Change 8.1
+Change 8.2
 Change 9
 Change 9.1
 Change 9.2
