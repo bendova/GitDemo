@@ -21,6 +21,9 @@ Change 10.4
 Change 10.5
 Change 10.6
 Change 12
+Change 12.1
+Change 12.2
+Change 12.3
 Change 13
 Change 13.1
 Change 13.2
